@@ -1,0 +1,23 @@
+{
+  "name": "r058m-ngrok",
+  "version": "1.0.0",
+  "description": "Учебный проект \"m\" - как использовать ngrok.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nosikov-studio/r058m-ngrok.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nosikov-studio/r058m-ngrok/issues"
+  },
+  "homepage": "https://github.com/Nosikov-studio/r058m-ngrok#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
